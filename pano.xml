@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3779 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3527" overlap="1" height="3527" levelbias="0.400">
+      <level predecode="0" preload="0" width="3527" height="3527"/>
+      <level predecode="0" preload="0" width="1763" height="1763"/>
+      <level predecode="0" preload="0" width="881" height="881"/>
+      <level predecode="1" preload="1" width="440" height="440"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.02612" pan="47.4002" fov="99.9615"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="i360Code.com | نموذج &quot;ج&quot; 276م إسكان إجتماعي" info="نموذج &quot;ج&quot; 276م إسكان إجتماعي" latitude="" source="" description="نموذج &quot;ج&quot; 276م إسكان إجتماعي" copyright="i360Code.com©" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0.79" id="Point01" title="" skinid="ht_node" description="" url="{node2}" pan="-22.14" target=""/>
+      <hotspot tilt="-9.05" id="Point02" title="" skinid="ht_node" description="" url="{node6}" pan="-58.33" target=""/>
+      <hotspot tilt="38.6" id="Point03" title="" skinid="ht_node" description="" url="{node13}" pan="-66.91" target=""/>
+      <hotspot tilt="34.85" id="Point04" title="" skinid="ht_node" description="" url="{node15}" pan="-12.71" target=""/>
+      <hotspot tilt="13.11" id="Point05" title="" skinid="ht_node" description="" url="{node4}" pan="-44.79" target=""/>
+      <hotspot tilt="53.44" id="Point06" title="" skinid="ht_node" description="" url="{node16}" pan="-65.04" target=""/>
+    </hotspots>
+    <media>
+      <video roty="0.000" clickmode="0" width="1280" mode="3" field="90.000" loop="1" height="720" pan="-120.870" tilt="-0.350" id="Element01" tiltsize="10.000" rotz="0.000" stretch="1.000" pansize="10.000" fov="58.871" handcursor="0" level="1.000" rotx="0.000" ambientlevel="0.000">
+        <source url="media/VID_20180210_124627.mp4"/>
+      </video>
+    </media>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3785 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3646" overlap="1" height="3646" levelbias="0.400">
+      <level predecode="0" preload="0" width="3646" height="3646"/>
+      <level predecode="0" preload="0" width="1823" height="1823"/>
+      <level predecode="0" preload="0" width="911" height="911"/>
+      <level predecode="1" preload="1" width="455" height="455"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.19568" pan="-90.8029" fov="106.807"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="مدخل العمارة" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-13.82" id="Point01" title="" skinid="ht_node" description="" url="{node1}" pan="-147.85" target=""/>
+      <hotspot tilt="-6.32" id="Point02" title="" skinid="ht_node" description="" url="{node3}" pan="-55.16" target=""/>
+      <hotspot tilt="-46.65" id="Point03" title="" skinid="ht_node" description="" url="{node6}" pan="-5.51" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3791 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3527" overlap="1" height="3527" levelbias="0.400">
+      <level predecode="0" preload="0" width="3527" height="3527"/>
+      <level predecode="0" preload="0" width="1763" height="1763"/>
+      <level predecode="0" preload="0" width="881" height="881"/>
+      <level predecode="1" preload="1" width="440" height="440"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.82618" pan="-50.7962" fov="93.0685"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="شقة 1" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-19.85" id="Point01" title="" skinid="ht_node" description="" url="{node2}" pan="-3.46" target=""/>
+      <hotspot tilt="-11.31" id="Point02" title="" skinid="ht_node" description="" url="{node4}" pan="-92.45" target=""/>
+      <hotspot tilt="27.23" id="Point03" title="" skinid="ht_node" description="" url="{node9}" pan="-147.26" target=""/>
+      <hotspot tilt="16.03" id="Point04" title="" skinid="ht_node" description="" url="{node9}" pan="-11.51" target=""/>
+      <hotspot tilt="-7.08" id="Point05" title="" skinid="ht_node" description="" url="{node1}" pan="86.63" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3803 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3602" overlap="1" height="3602" levelbias="0.400">
+      <level predecode="0" preload="0" width="3602" height="3602"/>
+      <level predecode="0" preload="0" width="1801" height="1801"/>
+      <level predecode="0" preload="0" width="900" height="900"/>
+      <level predecode="1" preload="1" width="450" height="450"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.13821" pan="-151.941" fov="63.5531"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="2018:02:16 23:10:35" title="ريسيبشن الأرضي" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-7.19" id="Point01" title="" skinid="ht_node" description="" url="{node3}" pan="-157.53" target=""/>
+      <hotspot tilt="-7.36" id="Point02" title="" skinid="ht_node" description="" url="{node5}" pan="178.64" target=""/>
+      <hotspot tilt="1.27" id="Point03" title="" skinid="ht_node" description="" url="{node2}" pan="-173.56" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3797 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3517" overlap="1" height="3517" levelbias="0.400">
+      <level predecode="0" preload="0" width="3517" height="3517"/>
+      <level predecode="0" preload="0" width="1758" height="1758"/>
+      <level predecode="0" preload="0" width="879" height="879"/>
+      <level predecode="1" preload="1" width="439" height="439"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.41128" pan="45.283" fov="103.555"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="حمام الأرضي" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-15.4" id="Point01" title="" skinid="ht_node" description="" url="{node2}" pan="109.02" target=""/>
+      <hotspot tilt="-16.88" id="Point02" title="" skinid="ht_node" description="" url="{node4}" pan="-38.42" target=""/>
+      <hotspot tilt="-13.64" id="Point03" title="" skinid="ht_node" description="" url="{node13}" pan="-161.75" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3857 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3632" overlap="1" height="3632" levelbias="0.400">
+      <level predecode="0" preload="0" width="3632" height="3632"/>
+      <level predecode="0" preload="0" width="1816" height="1816"/>
+      <level predecode="0" preload="0" width="908" height="908"/>
+      <level predecode="1" preload="1" width="454" height="454"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.676763" pan="167.726" fov="55.7296"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="مدخل البدروم" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="3.14" id="Point01" title="" skinid="ht_node" description="" url="{node1}" pan="-143.07" target=""/>
+      <hotspot tilt="-15.47" id="Point02" title="" skinid="ht_node" description="" url="{node7}" pan="37.77" target=""/>
+      <hotspot tilt="-8.31" id="Point03" title="" skinid="ht_node" description="" url="{node2}" pan="120.49" target=""/>
+      <hotspot tilt="-3.74" id="Point04" title="" skinid="ht_node" description="" url="{node8}" pan="46.31" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3863 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3539" overlap="1" height="3539" levelbias="0.400">
+      <level predecode="0" preload="0" width="3539" height="3539"/>
+      <level predecode="0" preload="0" width="1769" height="1769"/>
+      <level predecode="0" preload="0" width="884" height="884"/>
+      <level predecode="1" preload="1" width="442" height="442"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.99168" pan="-116.617" fov="48.3378"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="البدروم" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-10.64" id="Point01" title="" skinid="ht_node" description="" url="{node6}" pan="52.43" target=""/>
+      <hotspot tilt="-8.09" id="Point02" title="" skinid="ht_node" description="" url="{node8}" pan="-109.34" target=""/>
+      <hotspot tilt="4.62" id="Point03" title="" skinid="ht_node" description="" url="{node1}" pan="66.82" target=""/>
+      <hotspot tilt="-6.44" id="Point04" title="" skinid="ht_node" description="" url="{node2}" pan="28.1" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3869 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3632" overlap="1" height="3632" levelbias="0.400">
+      <level predecode="0" preload="0" width="3632" height="3632"/>
+      <level predecode="0" preload="0" width="1816" height="1816"/>
+      <level predecode="0" preload="0" width="908" height="908"/>
+      <level predecode="1" preload="1" width="454" height="454"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-11.1649" pan="54.7721" fov="48.2344"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="الحديقة الخلفية" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-5.39" id="Point01" title="" skinid="ht_node" description="" url="{node6}" pan="172.03" target=""/>
+      <hotspot tilt="3.58" id="Point02" title="" skinid="ht_node" description="" url="{node1}" pan="170.77" target=""/>
+      <hotspot tilt="-1.62" id="Point03" title="" skinid="ht_node" description="" url="{node2}" pan="162.41" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3794 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3658" overlap="1" height="3658" levelbias="0.400">
+      <level predecode="0" preload="0" width="3658" height="3658"/>
+      <level predecode="0" preload="0" width="1829" height="1829"/>
+      <level predecode="0" preload="0" width="914" height="914"/>
+      <level predecode="1" preload="1" width="457" height="457"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-30.4822" pan="-54.901" fov="79.5022"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="مداخل الدور الأول" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-34.6" id="Point01" title="" skinid="ht_node" description="" url="{node3}" pan="-52.77" target=""/>
+      <hotspot tilt="-5.95" id="Point02" title="" skinid="ht_node" description="" url="{node10}" pan="33.83" target=""/>
+      <hotspot tilt="-7.23" id="Point03" title="" skinid="ht_node" description="" url="{node11}" pan="40.93" target=""/>
+      <hotspot tilt="-8.01" id="Point04" title="" skinid="ht_node" description="" url="{node13}" pan="-89.56" target=""/>
+      <hotspot tilt="-14.04" id="Point05" title="" skinid="ht_node" description="" url="{node14}" pan="44.21" target=""/>
+      <hotspot tilt="3.7" id="Point06" title="" skinid="ht_node" description="" url="{node16}" pan="126.72" target=""/>
+      <hotspot tilt="-37.75" id="Point07" title="" skinid="ht_node" description="" url="{node4}" pan="141.64" target=""/>
+      <hotspot tilt="-23.36" id="Point08" title="" skinid="ht_node" description="" url="{node15}" pan="-157.15" target=""/>
+      <hotspot tilt="-9.6" id="Point09" title="" skinid="ht_node" description="" url="{node1}" pan="-136.23" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3782 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3568" overlap="1" height="3568" levelbias="0.400">
+      <level predecode="0" preload="0" width="3568" height="3568"/>
+      <level predecode="0" preload="0" width="1784" height="1784"/>
+      <level predecode="0" preload="0" width="892" height="892"/>
+      <level predecode="1" preload="1" width="446" height="446"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.54608" pan="-35.7371" fov="79.8126"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="ريسبشن الأول" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-35.43" id="Point01" title="" skinid="ht_node" description="" url="{node3}" pan="-145.75" target=""/>
+      <hotspot tilt="-10.36" id="Point02" title="" skinid="ht_node" description="" url="{node15}" pan="-73.92" target=""/>
+      <hotspot tilt="-10.39" id="Point03" title="" skinid="ht_node" description="" url="" pan="25.5" target=""/>
+      <hotspot tilt="-5.69" id="Point04" title="" skinid="ht_node" description="" url="{node16}" pan="-105.12" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3788 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3470" overlap="1" height="3470" levelbias="0.400">
+      <level predecode="0" preload="0" width="3470" height="3470"/>
+      <level predecode="0" preload="0" width="1735" height="1735"/>
+      <level predecode="0" preload="0" width="867" height="867"/>
+      <level predecode="1" preload="1" width="433" height="433"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.83849" pan="-3.56363" fov="80.8774"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="غرفة خارجية - الأول" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-12.11" id="Point01" title="" skinid="ht_node" description="" url="{node13}" pan="-17.2" target=""/>
+      <hotspot tilt="-15.97" id="Point02" title="" skinid="ht_node" description="" url="{node1}" pan="-109.71" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3812 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3617" overlap="1" height="3617" levelbias="0.400">
+      <level predecode="0" preload="0" width="3617" height="3617"/>
+      <level predecode="0" preload="0" width="1808" height="1808"/>
+      <level predecode="0" preload="0" width="904" height="904"/>
+      <level predecode="1" preload="1" width="452" height="452"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.01018" pan="-0.202668" fov="69.6779"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="حمام الأول" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-10.42" id="Point01" title="" skinid="ht_node" description="" url="{node11}" pan="-86.33" target=""/>
+      <hotspot tilt="-10.1" id="Point02" title="" skinid="ht_node" description="" url="{node10}" pan="-105.76" target=""/>
+      <hotspot tilt="-7.17" id="Point03" title="" skinid="ht_node" description="" url="{node13}" pan="103.91" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3818 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3623" overlap="1" height="3623" levelbias="0.400">
+      <level predecode="0" preload="0" width="3623" height="3623"/>
+      <level predecode="0" preload="0" width="1811" height="1811"/>
+      <level predecode="0" preload="0" width="905" height="905"/>
+      <level predecode="1" preload="1" width="452" height="452"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.265103" pan="70.7605" fov="86.5922"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="نوم 1 - الدور الأول" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-8.41" id="Point01" title="" skinid="ht_node" description="" url="{node11}" pan="50.94" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3824 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3579" overlap="1" height="3579" levelbias="0.400">
+      <level predecode="0" preload="0" width="3579" height="3579"/>
+      <level predecode="0" preload="0" width="1789" height="1789"/>
+      <level predecode="0" preload="0" width="894" height="894"/>
+      <level predecode="1" preload="1" width="447" height="447"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.162808" pan="31.3432" fov="93.0685"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="نوم - الرئيسية" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-7.64" id="Point01" title="" skinid="ht_node" description="" url="{node9}" pan="4.03" target=""/>
+      <hotspot tilt="-15.75" id="Point02" title="" skinid="ht_node" description="" url="{node10}" pan="29.41" target=""/>
+      <hotspot tilt="-20.77" id="Point03" title="" skinid="ht_node" description="" url="{node12}" pan="-34.91" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3830 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3574" overlap="1" height="3574" levelbias="0.400">
+      <level predecode="0" preload="0" width="3574" height="3574"/>
+      <level predecode="0" preload="0" width="1787" height="1787"/>
+      <level predecode="0" preload="0" width="893" height="893"/>
+      <level predecode="1" preload="1" width="446" height="446"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.23629" pan="-0.877366" fov="104.176"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="حمام - الماستر" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-28.3" id="Point01" title="" skinid="ht_node" description="" url="{node11}" pan="-15.01" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3836 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3455" overlap="1" height="3455" levelbias="0.400">
+      <level predecode="0" preload="0" width="3455" height="3455"/>
+      <level predecode="0" preload="0" width="1727" height="1727"/>
+      <level predecode="0" preload="0" width="863" height="863"/>
+      <level predecode="1" preload="1" width="431" height="431"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.0847" pan="-48.1721" fov="74.6319"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="ريسبشن الدور الثاني" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-19.19" id="Point01" title="" skinid="ht_node" description="" url="{node9}" pan="-11.03" target=""/>
+      <hotspot tilt="-16.37" id="Point02" title="" skinid="ht_node" description="" url="{node17}" pan="-73.77" target=""/>
+      <hotspot tilt="-6.65" id="Point03" title="" skinid="ht_node" description="" url="{node18}" pan="-83.69" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3843 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3535" overlap="1" height="3535" levelbias="0.400">
+      <level predecode="0" preload="0" width="3535" height="3535"/>
+      <level predecode="0" preload="0" width="1767" height="1767"/>
+      <level predecode="0" preload="0" width="883" height="883"/>
+      <level predecode="1" preload="1" width="441" height="441"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-11.8339" pan="33.4677" fov="61.1553"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="الدور الثاني" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-11.76" id="Point01" title="" skinid="ht_node" description="" url="{node16}" pan="-172.53" target=""/>
+      <hotspot tilt="-16.5" id="Point02" title="" skinid="ht_node" description="" url="{node9}" pan="141.58" target=""/>
+      <hotspot tilt="-12.17" id="Point03" title="" skinid="ht_node" description="" url="{node18}" pan="12.84" target=""/>
+      <hotspot tilt="-1.04" id="Point04" title="" skinid="ht_node" description="" url="{node1}" pan="177.53" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/DSC_3850 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" width="3556" overlap="1" height="3556" levelbias="0.400">
+      <level predecode="0" preload="0" width="3556" height="3556"/>
+      <level predecode="0" preload="0" width="1778" height="1778"/>
+      <level predecode="0" preload="0" width="889" height="889"/>
+      <level predecode="1" preload="1" width="444" height="444"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.18102" pan="-34.1667" fov="55.9102"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" author="i360Code.com" datetime="" title="الدور الثاني - خلفي" info="" latitude="" source="" description="" copyright="" longitude="" tags="LR_Export_APG"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textalpha="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" borderradius="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" wordwrap="1" height="20" enabled="1" background="1" border="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-6.84" id="Point01" title="" skinid="ht_node" description="" url="{node16}" pan="-176.74" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="2" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="2" zoomfov="20" zoomoutpause="1" enabled="1" type="crossdissolve"/>
+    <autorotate useanimation="1" startloaded="0" nodedelay="0.00" delay="5.00" speed="0.100" noderandom="1" returntohorizon="0.000"/>
+    <animation/>
+    <control simulatemass="1" contextfullscreen="1" lockedkeyboard="0" lockedmouse="0" speedwheel="3" lockedkeyboardzoom="0" invertcontrol="0" sensitivity="8" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="1">
+      <menulink text="Powered By: i360Code.com" url="http://i360code.com"/>
+    </control>
+  </panorama>
+</tour>
